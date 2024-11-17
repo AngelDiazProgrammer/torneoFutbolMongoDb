@@ -1,0 +1,6 @@
+{
+  "_id": "ObjectId",
+  "equipo": "ObjectId",
+  "puntos": "Number",
+  "diferencia_goles": "Number"
+}

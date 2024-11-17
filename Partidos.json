@@ -1,0 +1,13 @@
+{
+  "_id": "ObjectId",
+  "fecha": "Date",
+  "hora": "String",
+  "lugar": "String",
+  "equipo_local": "ObjectId",
+  "equipo_visitante": "ObjectId",
+  "arbitros": ["ObjectId", "ObjectId", "ObjectId"],
+  "resultado": {
+    "goles_local": "Number",
+    "goles_visitante": "Number"
+  }
+}
