@@ -1,9 +1,0 @@
-{
-  _id ObjectId,
-  equipo ObjectId,
-  partidos_jugados Number,
-  partidos_ganados Number,
-  partidos_empatados Number,
-  partidos_perdidos Number,
-  puntos Number
-}

@@ -1,0 +1,3 @@
+
+
+db.equipos.insert({ "_id": "2", "nombre": "Equipo B" });

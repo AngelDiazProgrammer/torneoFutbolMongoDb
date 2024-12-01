@@ -1,0 +1,17 @@
+Apaga un nodo secundario:
+
+systemctl stop mongod
+
+
+Inserta datos en el primario durante la desconexión.
+
+
+
+Reinicia el nodo secundario:
+systemctl start mongod
+
+
+Verifica que el nodo secundario se sincroniza automáticamente:
+lua
+Copiar código
+rs.status()

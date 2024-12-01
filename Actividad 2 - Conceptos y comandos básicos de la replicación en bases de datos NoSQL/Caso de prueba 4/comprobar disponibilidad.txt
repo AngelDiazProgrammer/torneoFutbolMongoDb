@@ -1,0 +1,2 @@
+Apaga un nodo secundario o árbitro.
+Realiza lecturas desde el primario y los nodos secundarios restantes

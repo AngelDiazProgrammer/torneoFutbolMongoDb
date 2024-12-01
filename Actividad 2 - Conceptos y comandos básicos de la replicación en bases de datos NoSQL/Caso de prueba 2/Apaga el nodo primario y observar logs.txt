@@ -1,0 +1,10 @@
+Apaga el nodo primario usando:
+
+systemctl stop mongod
+
+
+Observa los logs del nuevo primario usando:
+
+
+rs.status()
+
