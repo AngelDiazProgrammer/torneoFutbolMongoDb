@@ -1,0 +1,3 @@
+Ejecutar en bash, Shell o cmd
+
+mongo --port 27019

@@ -1,0 +1,4 @@
+ejecutar en bash, shell o cmd 
+
+mongod --configsvr --replSet configReplSet --port 27019 --dbpath /data/configdb
+mongod --shardsvr --port 27018 --dbpath /data/shard1
